@@ -104,9 +104,10 @@ span {
     padding: 0;
   }
   main {
-    margin-top: 6.25em;
+    margin-top: 12.5rem;
   }
   .container {
+    
     display: flex;
     flex-direction: row-reverse;
     width: 100%;
